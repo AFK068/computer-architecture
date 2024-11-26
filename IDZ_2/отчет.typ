@@ -1,4 +1,4 @@
-#import "template.typ": *
+..#import "template.typ": *
 #let title = "ИДЗ-2"
 #let author = "Гобец Иван Евгеньевич. БПИ 237. Вариант 13"
 #let course_id = "АВС"
